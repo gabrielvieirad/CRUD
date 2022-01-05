@@ -7,7 +7,7 @@ import javax.swing.*;
 import static javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_NEVER;
 /**
  *
- * @author Gabriel Vieira - Yuri Dias
+ * @author Gabriel Vieira 
  */
 public class APS {
     public static void main(String[]args){
